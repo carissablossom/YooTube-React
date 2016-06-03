@@ -1,6 +1,6 @@
 # Youtube Clone with React
 
-Based on the following tutorial:  [Redux](https://www.udemy.com/react-redux/)?
+Based on the following tutorial:  [Redux](https://www.udemy.com/react-redux/)
 
 ###Getting Started###
 
